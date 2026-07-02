@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HideSearchIME</string>
+    <string name="module_desc">隐藏全局搜索自动弹出的输入法，点击搜索框后再弹出</string>
+</resources>
